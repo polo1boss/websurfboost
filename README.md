@@ -43,4 +43,4 @@ npm run dev            # python ../../src/scripts/serve.py 8080 .
 - [vmdl](https://codeberg.org/icewind/vmdl) —— Source 模型解析（vendored，已修改），MIT，见 `src/vendor/vmdl/LICENSE`
 - [three.js](https://threejs.org/) —— 3D 渲染，MIT
 
-本仓库：[MIT](LICENSE) © 2026 WebSurf contributors。
+本仓库：[MIT](LICENSE) © 2026 WebSurf contributors。 
